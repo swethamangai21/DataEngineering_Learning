@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": 1023,
+    "customer_id": "C017",
+    "product_id": "P117",
+    "order_date": "2026-07-30",
+    "quantity": 2,
+    "unit_price": 550.00,
+    "order_status": "COMPLETED"
+  },
+  {
+    "order_id": 1024,
+    "customer_id": "C018",
+    "product_id": "P118",
+    "order_date": "2026-07-30",
+    "quantity": 1,
+    "unit_price": 900.50,
+    "order_status": "PENDING"
+  },
+  {
+    "order_id": 1025,
+    "customer_id": "C019",
+    "product_id": "P119",
+    "order_date": "2026-07-30",
+    "quantity": 4,
+    "unit_price": 225.75,
+    "order_status": "SHIPPED"
+  }
+]
