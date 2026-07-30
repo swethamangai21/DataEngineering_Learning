@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,order_status
+2005,C105,P205,2026-07-30,4,125.75,PENDING
+2006,C106,P206,2026-07-30,2,650.00,COMPLETED

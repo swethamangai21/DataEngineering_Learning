@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,order_status
+2001,C101,P201,28-07-2026,2,500,COMPLETED
+2002,C102,P202,28-07-2026,1,750,PENDING

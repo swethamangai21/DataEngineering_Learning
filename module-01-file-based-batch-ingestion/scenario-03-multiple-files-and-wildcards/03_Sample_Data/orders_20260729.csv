@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,order_status
+2003,C103,P203,29-07-2026,3,250.5,SHIPPED
+2004,C104,P204,29-07-2026,1,900,COMPLETED
