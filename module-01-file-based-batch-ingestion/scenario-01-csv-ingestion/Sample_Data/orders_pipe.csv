@@ -1,0 +1,4 @@
+order_id|customer_id|product_id|order_date|quantity|unit_price|order_status
+1014|C011|P111|2026-07-30|2|325.50|COMPLETED
+1015|C012|P112|2026-07-30|1|850.00|PENDING
+1016|C013|P113|2026-07-30|4|110.25|SHIPPED
